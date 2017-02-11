@@ -1,0 +1,9 @@
+[package]
+name = "LUL"
+version = "0.1.0"
+authors = ["sustrak <josepsansprats@gmail.com>"]
+
+[dependencies]
+hyper = "0.10"
+hyper-native-tls = "0.2.2"
+serde_json = "0.9.5"
