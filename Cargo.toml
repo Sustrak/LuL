@@ -1,7 +1,7 @@
 [package]
 name = "LUL"
 version = "0.1.0"
-authors = ["sustrak <josepsansprats@gmail.com>"]
+authors = ["sustrak <josepsansprats at gmail.com>"]
 
 [dependencies]
 hyper = "0.10"
