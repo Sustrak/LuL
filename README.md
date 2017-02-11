@@ -1,2 +1,2 @@
 # LuL
-Testing RUST and LOL API
+Testing RUST and LOL's API
